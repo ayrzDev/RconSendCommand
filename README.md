@@ -6,6 +6,7 @@ use this yourself with localhost webservice
 
 I will be glad if you evaluate the project
 
+<hr>
 
 Bunu internette yayınlamanızı tavsiye etmiyorum!
 
